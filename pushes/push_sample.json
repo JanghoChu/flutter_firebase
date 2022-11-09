@@ -1,0 +1,18 @@
+{
+   "aps" : {
+      "alert" : {
+         "title" : "Game Request",
+         "subtitle" : "Five Card Draw",
+         "body" : "Bob wants to play poker"
+      }
+   },
+   "data":
+    {
+        "sender_contact_code" : "+92",
+     "sender_contact" : "(555) 564-8583",
+     "group_name":"Testing Group",
+     "type":"NewMessage",
+     "type_id":"1213",
+     "notification_type_id":"123213"
+    }
+}
